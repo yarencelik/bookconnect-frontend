@@ -19,9 +19,9 @@ BookConnect is a social media app designed specifically for readers to connect a
 
 ## Technologies Used
 
-- **Front-end:**
+**Front-end:**
 - Next.js: React framework for server-rendered applications.
 - Chakra UI: Component library for building accessible and responsive user interfaces.
 
-- **Back-end:**
+**Back-end:**
 - C#: General-purpose programming language for backend development.
