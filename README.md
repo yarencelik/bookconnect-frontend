@@ -1,6 +1,6 @@
 # BookConnect
 
-BookConnect is a portfolio project getting developed by [amr](https://github.com/amr8644), [bry](https://github.com/schierke444), [oscarvx00](https://github.com/oscarvx00), [yarencelik](https://github.com/yarencelik).
+BookConnect is a portfolio project getting developed by [amr](https://github.com/amr8644), [bry](https://github.com/schierke444), [oscarvx00](https://github.com/oscarvx00), [vickyz223](https://github.com/vickyz223), [yarencelik](https://github.com/yarencelik).
 
 See also: [Back-end](https://github.com/yarencelik/bookconnect-backend)
 
